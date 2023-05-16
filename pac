@@ -26,10 +26,46 @@ var domains = {
   "bing.com":1,
   "kitsu.red":1,
   "speedrun.com":1,
-  "huggingface.co":1
+  "huggingface.co":1,
+  "playnite.link":1,
+  "twimg.com":1,
+  "mega.nz":1,
+  "steampowered.com":1,
+  "steamcommunity.com":1,
+  "github.io":1,
+  "githubassets.com":1,
+  "pypi.org":1,
+  "fastly.net":1,
+  "bit.ly":1,
+  "dlsite.jp":1,
+  "pthome.net":1,
+  "sourceforge.net":1,
+  "skyeysnow.com":1,
+  "aipark.top":1,
+  "themoviedb.org":1,
+  "m-team.cc":1,
+  "imagebam.com":1,
+  "groueta.cc":1,
+  "ccache.org":1,
+  "fc2.com":1,
+  "nyaa.si":1,
+  "imgur.com":1,
+  "exoticaz.to":1,
+  "pttime.org":1,
+  "netcdn.space":1,
+  "mazhizhong.cf":1,
+  "t.me":1,
+  "telegram.org":1,
+  "tdesktop.com":1,
+  "loli.net":1,
+  "sm.ms":1,
+  "in.th":1,
+  "xingtan.one":1,
+  "stash.kitsu.red":1,
+  "speedrun.com":1
 };
 
-var proxy = "PROXY 127.0.0.1:13380;";
+var proxy = "PROXY 127.0.0.1:1080;";
 
 var direct = 'DIRECT;';
 

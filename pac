@@ -16,10 +16,20 @@ var domains = {
   "ytimg.com":1,
   "googleapis.com":1,
   "ggpht.com":1,
-  "google.com.hk":1
+  "google.com.hk":1,
+  "dlsite.com":1,
+  "dmhy.org":1,
+  "onedrive.live.com":1,
+  "discordapp.net":1,
+  "rinetd.com":1,
+  "catbox.moe":1,
+  "bing.com":1,
+  "kitsu.red":1,
+  "speedrun.com":1,
+  "huggingface.co":1
 };
 
-var proxy = "__PROXY__";
+var proxy = "PROXY 127.0.0.1:13380;";
 
 var direct = 'DIRECT;';
 
